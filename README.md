@@ -55,3 +55,5 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
+sample user: adi.wawan90@gmail.com / Pakai@ja123
